@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+#search {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.episode {
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+}
+
+.episode h2 {
+    font-size: 18px;
+    margin: 0 0 5px;
+}
+
+.episode h2 a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.episode h2 a:hover {
+    text-decoration: underline;
+}
+
+.episode p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.episode ul {
+    margin: 10px 0 0;
+    padding-left: 20px;
+}
+
+.episode li {
+    margin-bottom: 5px;
+}
